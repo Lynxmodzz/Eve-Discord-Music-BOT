@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Eve Music</h1>
-  <p>A simple, fast, and feature-rich Discord music bot built with discord.py and Wavelink.</p>
+  <p>A simple, fast, and feature-rich Open-source Discord music bot built with discord.py and Wavelink.</p>
 
   <p>
     <a href="https://github.com/Rapptz/discord.py"><img src="https://img.shields.io/badge/discord.py-v2.3.2+-5865F2?style=flat-square&logo=python&logoColor=white" alt="discord.py"></a>
@@ -150,3 +150,9 @@ Set your Owner ID and default settings in `config/settings.json`:
 
 If you need help or have questions, join the support server:
 - **Discord**: [dsc.gg/lynx-modz](https://dsc.gg/lynx-modz)
+
+---
+
+<div align="center">
+  <sub>If you like this project, please consider giving it a ⭐ star!</sub>
+</div>

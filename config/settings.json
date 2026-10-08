@@ -1,0 +1,17 @@
+{
+    "bot-name": "Eve",
+    "default_prefix": "?",
+    "owner_ids": [
+        "1481652276337709127"
+    ],
+    "admin_ids": [
+        "",
+        ""
+    ],
+    "development_server_id": "",
+    "theme_color": "#FFFFFF",
+    "default_volume": 80,
+    "activity_name": "music | ?help",
+    "activity_type": "listening",
+    "support_server": "https://dsc.gg/lynx-modz"
+}
